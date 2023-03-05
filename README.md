@@ -20,11 +20,6 @@
 - I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kelvinnich/github-contribution-grid-snake-svg/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
-
 
 &emsp;
 
