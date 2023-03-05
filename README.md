@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="https:github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/kelvinnich/https:github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
