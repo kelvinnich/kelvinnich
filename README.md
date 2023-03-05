@@ -5,12 +5,6 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software;Developer%20;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
--------------------
-&emsp;
-<h3 align="left">Hi 👋, I'm Kelvin, Software Developer in Jakarta.</h3>
-&emsp;
-
--------------------
 &emsp;
 
 
