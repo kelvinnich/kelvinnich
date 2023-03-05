@@ -20,7 +20,9 @@
 - I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
 <br>
 
-
+<p align="center">
+  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 
 &emsp;
