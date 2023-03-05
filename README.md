@@ -24,7 +24,7 @@
 &emsp;
 
 <a href="https://github.com/kelvinnich">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+    ![GitHub: kelvinnich](https://img.shields.io/github/followers/kelvinnich?label=follow&style=social)
 </a>
 
 
@@ -69,11 +69,11 @@
 
 ### 🔥 Streak Stats
 
-![Berkeli's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
+![kelvinnich GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=berkeli&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=berkeli&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="Berkeli's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=kelvin&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ------
 Credit: [Berkeli](https://github.com/Berkeli)
